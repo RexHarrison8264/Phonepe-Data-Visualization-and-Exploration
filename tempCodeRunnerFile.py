@@ -1,0 +1,1 @@
+df2 = pd.read_csv (file_path= 'G:/Projects/PhonePay/Statenames.csv')
